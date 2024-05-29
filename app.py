@@ -5,7 +5,6 @@ import json
 from flask_cors import CORS
 import csv
 
-import user as user_functions
 import keyword_similarity_search as keyword
 
 app = Flask(__name__)
