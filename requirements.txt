@@ -1,0 +1,8 @@
+Flask
+requests
+flask-cors
+nltk
+firebase-admin
+numpy
+torch
+open_clip_torch
