@@ -6,3 +6,4 @@ firebase-admin
 numpy
 torch
 open_clip_torch
+gunicorn
